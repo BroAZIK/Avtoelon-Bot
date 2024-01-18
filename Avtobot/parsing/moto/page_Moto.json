@@ -1,0 +1,544 @@
+[
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "shahrisabzskiy-rayon",
+        "attributes": {
+            "brand": "Lochin"
+        },
+        "lastUpdate": "2024-01-09T20:30:33+05:00",
+        "status": "live",
+        "unitPrice": 2018,
+        "photos": 3,
+        "url": "https://avtoelon.uz/uz/a/show/4430942",
+        "detail": {
+            "title": "Lochin",
+            "details": "2021, Shahrisabz tumani, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/6e/6e9a3fe4-ddf2-4a85-a037-e3576fa8bff5/1-408x306.webp",
+            "description": "Model: Lochin \nProbeg: 4302 \nHolati: Yaxshi, kamchiligi yo q, yangi.",
+            "phone": "+998 91 223 58 10"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-andizhan",
+        "attributes": {
+            "brand": "Russkaya Mexanika"
+        },
+        "lastUpdate": "2024-01-09T20:15:29+05:00",
+        "status": "live",
+        "unitPrice": 1000,
+        "photos": 4,
+        "url": "https://avtoelon.uz/uz/a/show/4477218",
+        "detail": {
+            "title": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041c\u0435\u0445\u0430\u043d\u0438\u043a\u0430",
+            "details": "2010, Andijon, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/1d/1d11e392-4cbf-4f95-abda-27df6a50a318/1-408x306.webp",
+            "description": "\u0425\u043e\u043b\u0430\u0442\u0438 \u0430\u043b\u043e \n\u041d\u0430\u0440\u0445\u0438\u043d\u0438 \u043a\u0435\u043b\u0438\u0448\u0430\u043c\u0438\u0437",
+            "phone": "+998 91 496 62 84"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-samarkand",
+        "attributes": {
+            "brand": "Lochin"
+        },
+        "lastUpdate": "2024-01-09T19:31:34+05:00",
+        "status": "live",
+        "unitPrice": 1453,
+        "photos": 4,
+        "url": "https://avtoelon.uz/uz/a/show/4053695",
+        "detail": {
+            "title": "Lochin",
+            "details": "2018, Samarqand, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/3e/3e3a88d4-d684-42e3-8ab1-0f8f90bfce8b/4-408x306.webp",
+            "description": "\u0425\u043e\u043b\u0430\u0442\u0438 \u044f\u0445\u0448\u0438 \u0445\u0430\u043c\u043c\u0430 \u0436\u043e\u0439\u0438 \u0440\u0430\u0434\u043d\u043e\u0439 \u043e\u0437\u0440\u043e\u043a \u043a\u0430\u043c\u0438 \u0431\u043e\u0440",
+            "phone": "+998 93 727 50 51"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-gulistan",
+        "attributes": {
+            "brand": "Real Moto"
+        },
+        "lastUpdate": "2024-01-09T19:25:32+05:00",
+        "status": "live",
+        "unitPrice": 1900,
+        "photos": 4,
+        "url": "https://avtoelon.uz/uz/a/show/4466439",
+        "detail": {
+            "title": "RealMoto",
+            "details": "2023, Guliston, skuter",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/dd/dd509576-bf58-4ce9-a8c4-9826d146d1d7/1-408x306.webp",
+            "description": "topilmadi",
+            "phone": "+998 99 477 89 47"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-karshi",
+        "attributes": {
+            "brand": "Lochin"
+        },
+        "lastUpdate": "2024-01-09T18:55:22+05:00",
+        "status": "live",
+        "unitPrice": 2421,
+        "photos": 3,
+        "url": "https://avtoelon.uz/uz/a/show/4476919",
+        "detail": {
+            "title": "Lochin",
+            "details": "2022, Qarshi, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/ef/eff9b657-c72a-4ad8-8433-70c02cc6a29d/1-408x306.webp",
+            "description": "Hunji yangi pachka srochni sotiladi",
+            "phone": "+998 99 317 46 43"
+        }
+    } ,
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "tashlakskiy-rayon",
+        "attributes": {
+            "brand": "Lochin"
+        },
+        "lastUpdate": "2024-01-09T18:55:19+05:00",
+        "status": "live",
+        "unitPrice": 1776,
+        "photos": 4,
+        "url": "https://avtoelon.uz/uz/a/show/3709098",
+        "detail": {
+            "title": "Lochin",
+            "details": "2022, Toshloq tumani, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/81/8163dfe6-3eed-4d92-87c3-83680d7095ff/1-408x306.webp",
+            "description": "Lochin, yurgani 1500 km, holati zo\u02bbr, mator ochilmagan hechnarsa alishmagan.",
+            "phone": "+998 90 162 78 33"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-namangan",
+        "attributes": {
+            "brand": "Lochin"
+        },
+        "lastUpdate": "2024-01-09T18:45:46+05:00",
+        "status": "live",
+        "unitPrice": 2663,
+        "photos": 5,
+        "url": "https://avtoelon.uz/uz/a/show/4426863",
+        "detail": {
+            "title": "Lochin",
+            "details": "2022, Namangan, boshqa, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/f6/f6e77f54-f00c-4ae5-9d24-e3b4681d2df6/1-408x306.webp",
+            "description": "Lochin muravey.2022-yil holati zo\u02bbr.1, 5 tonna samasval.",
+            "phone": "+998 93 286 10 08"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-kokand",
+        "attributes": {
+            "brand": "Greenbike"
+        },
+        "lastUpdate": "2024-01-09T18:35:47+05:00",
+        "status": "live",
+        "unitPrice": 850,
+        "photos": 6,
+        "url": "https://avtoelon.uz/uz/a/show/4462568",
+        "detail": {
+            "title": "Greenbike",
+            "details": "2023, Qo'qon, skuter, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/17/174b4fbc-a09b-49b4-9d16-2cce1b2b141a/1-408x306.webp",
+            "description": "Ganglan 500kg xolati idyal",
+            "phone": "+998 91 682 35 31"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 1,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-tashkent",
+        "attributes": {
+            "brand": "Yadea",
+            "model": "EM215"
+        },
+        "lastUpdate": "2024-01-09T17:57:05+05:00",
+        "status": "live",
+        "unitPrice": 726,
+        "photos": 4,
+        "url": "https://avtoelon.uz/uz/a/show/1016479",
+        "detail": {
+            "title": "Yadea  EM215",
+            "details": "2021, Toshkent, skuter",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/28/28d9b874-1db2-4930-82f3-5aca40bd83d2/8-408x306.webp",
+            "description": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0438\u043c\u0435\u043d\u043d\u043e \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u043a\u0443\u0442\u0435\u0440\u044b \u043e\u0442 Yadea? \n\u041d\u0430\u0440\u044f\u0434\u0443 \u0441 \u044f\u0432\u043d\u044b\u043c\u0438 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438 \u0432 \u0446\u0435\u043d\u0435, \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0438 \u043f\u0440\u043e\u0441\u0442\u043e\u0442\u0435 \u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u043a\u0443\u0442\u0435\u0440\u044b \u043e\u0442 Yadea \n\n\u0422\u0435\u043f\u0435\u0440\u044c \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443! \n\n\u2022 \u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u043d\u043e\u0441\u0442\u044c \n\u2022 \u041e\u0442\u043b\u0438\u0447\u043d\u0430\u044f \u0434\u0438\u043d\u0430\u043c\u0438\u043a\u0430 \u0440\u0430\u0437\u0433\u043e\u043d\u0430 \n\u2022 \u041c\u0430\u043d\u0435\u0432\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u044c \n\u2022 \u0411\u0435\u0441\u0448\u0443\u043c\u043d\u043e\u0441\u0442\u044c \n\u2022 \u0423\u0434\u043e\u0431\u0441\u0442\u0432\u043e \u0438 \u043b\u0435\u0433\u043a\u043e\u0441\u0442\u044c \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \n\u2022 \u042d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \n\u2022 \u0421\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u0434\u0438\u0437\u0430\u0439\u043d",
+            "phone": "+998 78 113 00 12"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-fergana",
+        "attributes": {
+            "brand": "Suzuki"
+        },
+        "lastUpdate": "2024-01-09T17:44:24+05:00",
+        "status": "live",
+        "photos": 1,
+        "url": "https://avtoelon.uz/uz/a/show/4494100",
+        "detail": {
+            "title": "Suzuki",
+            "details": "2023, Farg'ona, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/50/50b132b7-f587-4cd8-bff3-52e2ff8bc241/2-408x306.webp",
+            "description": "\u0410\u0441\u0441\u0430\u043b\u0430\u043c\u0443 \u0430\u043b\u0435\u043a\u0443\u043c \u0421\u0443\u0437\u0443\u043a\u0438 \u0431\u0443\u043b\u0432\u0430\u0440\u0434 \u043c109r 1800 \u043a\u0443\u0431\u043e\u0432 2023 \u0441\u0440\u043e\u0447\u043d\u043e \u0441\u043e\u0442\u0438\u043b\u0430\u0434\u0438 \u0445\u043e\u043b\u0430\u0442\u0438 \u0438\u0434\u0435\u0430\u043b \u0442\u0443\u043d\u0438\u043d\u0433 \u043a\u043b\u0438\u043d\u0433\u0430\u043d \u043e\u043b\u0431 \u043c\u0430\u0437\u0437\u0430 \u043a\u043b\u0431 \u043c\u043d\u0448 \u043a\u0435\u0440\u0435 \u0445\u043e\u043b\u043e\u0441 \u043d\u0430\u0440\u0445\u0438 (20.000$) \u043a\u0430\u043c\u0438 \u0431\u043e\u0440 \u043a\u0435\u043b\u0438\u0448\u0430\u043c\u0438\u0437",
+            "phone": "+998 91 006 07 07"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-tashkent",
+        "attributes": {
+            "brand": "Jinlun"
+        },
+        "lastUpdate": "2024-01-09T20:15:50+05:00",
+        "status": "live",
+        "unitPrice": 169,
+        "photos": 1,
+        "url": "https://avtoelon.uz/uz/a/show/4353334",
+        "detail": {
+            "title": "Jinlun",
+            "details": "2022, Toshkent, skuter, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/ba/ba874d69-1c44-40d4-88a0-161f03ffb992/1-408x306.webp",
+            "description": "\u0425\u043e\u043b\u0430\u0442\u0438 \u042f\u0425\u0428\u0418 \u0411\u0438\u0442\u0442\u0430 \u0411\u0430\u043b\u043e\u043d \u0412\u0410 \u041a\u0430\u043c\u0435\u0440\u0430 \u041e\u041b\u0421\u0410 \u0411\u0443\u043b\u0434\u0438",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-andizhan",
+        "attributes": {
+            "brand": "Lochin",
+            "model": "Elektro muravoy"
+        },
+        "lastUpdate": "2024-01-09T20:00:41+05:00",
+        "status": "live",
+        "unitPrice": 1130,
+        "photos": 7,
+        "url": "https://avtoelon.uz/uz/a/show/4426328",
+        "detail": {
+            "title": "Lochin  Elektro muravoy",
+            "details": "2023, Andijon, skuter, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/65/65a2b845-698c-46b1-9460-86abb1b72390/4-408x306.webp",
+            "description": "Elektro muravoy \n4Oy minilgan fastfood dastavkaga moslangan kenvod kalonka magnitafon qo\u02bbyilgan",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-tashkent",
+        "attributes": {
+            "brand": "Yamaha"
+        },
+        "lastUpdate": "2024-01-09T19:45:22+05:00",
+        "status": "live",
+        "unitPrice": 7500,
+        "photos": 1,
+        "url": "https://avtoelon.uz/uz/a/show/4284523",
+        "detail": {
+            "title": "Yamaha",
+            "details": "2006, Toshkent, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/83/83b6b810-9ade-462a-bbb2-93a37bb051e7/1-408x306.webp",
+            "description": "2006 yil, probeg 20 ming, Sotiladi. \nRasmga Tushish yoq.",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "payarykskiy-rayon",
+        "attributes": {
+            "brand": "Lochin"
+        },
+        "lastUpdate": "2024-01-09T19:05:26+05:00",
+        "status": "live",
+        "unitPrice": 2098,
+        "photos": 5,
+        "url": "https://avtoelon.uz/uz/a/show/4461397",
+        "detail": {
+            "title": "Lochin",
+            "details": "2023, Payariq tumani, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/53/53821b02-5a58-4e73-ba2e-398054a58178/1-408x306.webp",
+            "description": "\u041b\u043e\u0447\u0438\u043d \u0445\u043e\u043b\u0430\u0442\u0438 \u044f\u043d\u0433\u0438 \u043c\u0438\u043d\u0438\u043b\u043c\u0430\u0433\u0430\u043d \u044e\u0440\u0433\u0430\u043d\u0438 11\u043a\u043b",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-karshi",
+        "attributes": {
+            "brand": "Russkaya Mexanika"
+        },
+        "lastUpdate": "2024-01-09T18:30:24+05:00",
+        "status": "live",
+        "unitPrice": 363,
+        "photos": 4,
+        "url": "https://avtoelon.uz/uz/a/show/4398193",
+        "detail": {
+            "title": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041c\u0435\u0445\u0430\u043d\u0438\u043a\u0430",
+            "details": "1995, Qarshi, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/90/90f54d49-d91e-46c7-a598-75328cd91d94/1-408x306.webp",
+            "description": "Xolati yaxshi kami bo oladiganla busa yozsin",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-fergana",
+        "attributes": {
+            "brand": "Eldosh"
+        },
+        "lastUpdate": "2024-01-09T17:40:39+05:00",
+        "status": "live",
+        "unitPrice": 2600,
+        "photos": 7,
+        "url": "https://avtoelon.uz/uz/a/show/4481794",
+        "detail": {
+            "title": "Eldosh",
+            "details": "2022, Farg'ona, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/c5/c551513a-228b-40b8-bc87-b4517cccc9bb/1-408x306.webp",
+            "description": "Munis Xamkor 2022 yil i yaxshi xolada",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-samarkand",
+        "attributes": {
+            "brand": "Russkaya Mexanika"
+        },
+        "lastUpdate": "2024-01-09T17:30:27+05:00",
+        "status": "live",
+        "unitPrice": 1000,
+        "photos": 1,
+        "url": "https://avtoelon.uz/uz/a/show/4470853",
+        "detail": {
+            "title": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041c\u0435\u0445\u0430\u043d\u0438\u043a\u0430",
+            "details": "2023, Samarqand, skuter, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/39/39881e44-e42f-4d5f-9198-e1d064db2079/1-408x306.webp",
+            "description": "Skuter xolati yaxshi 800km yurgan yangi xolatda ozgina qirilgan joylari bor matori 150kb pul srochna kerak shunga sotyapman",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "turtkulskiy-rayon",
+        "attributes": {
+            "brand": "Honda"
+        },
+        "lastUpdate": "2024-01-09T17:10:31+05:00",
+        "status": "live",
+        "unitPrice": 2000,
+        "photos": 4,
+        "url": "https://avtoelon.uz/uz/a/show/4460808",
+        "detail": {
+            "title": "Honda",
+            "details": "2022, To'rtko'l tumani, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/98/98333674-ef9b-4f38-9cae-f797e6e09416/1-408x306.webp",
+            "description": "\u0419\u0430\u0445\u0448\u0438",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-tashkent",
+        "attributes": {
+            "brand": "Suzuki"
+        },
+        "lastUpdate": "2024-01-09T17:00:34+05:00",
+        "status": "live",
+        "unitPrice": 8000,
+        "photos": 1,
+        "url": "https://avtoelon.uz/uz/a/show/4439721",
+        "detail": {
+            "title": "Suzuki",
+            "details": "2018, Toshkent, motosikl, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/09/099a0ccb-f192-44e6-b3a3-cde2ffbcab6e/1-408x306.webp",
+            "description": "2018 y\u0131l 30.000 probeg",
+            "phone": "topilmadi"
+        }
+    },
+    {
+        "section": "auto",
+        "categoryString": "auto.moto",
+        "advertType": 0,
+        "category": [
+            "auto",
+            "auto.moto"
+        ],
+        "categoryId": "6",
+        "city": "gorod-fergana",
+        "attributes": {
+            "brand": "Eldosh",
+            "model": "200"
+        },
+        "lastUpdate": "2024-01-09T16:35:19+05:00",
+        "status": "live",
+        "unitPrice": 1792,
+        "photos": 3,
+        "url": "https://avtoelon.uz/uz/a/show/4033225",
+        "detail": {
+            "title": "Eldosh  200",
+            "details": "2021, Farg'ona, boshqa, Ha",
+            "more": "topilmadi",
+            "images": "https://kluz-photos.kcdn.online/webp/34/34963bf2-b46e-4b0a-a2df-475b8b57ca82/1-408x306.webp",
+            "description": "Eldosh motorol sotiladi, holagi yaxshi. Matizga ham barter qiinadi.16 ming km yurgan.1 tonnaga mo'ljallangan 200 motor.",
+            "phone": "topilmadi"
+        }
+    }
+]
