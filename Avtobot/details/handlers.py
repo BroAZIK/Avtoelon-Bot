@@ -64,7 +64,10 @@ def start(update: Update, context: CallbackContext):
                 text="Siz asosiy menyudasiz🔝",
                 reply_markup=ReplyKeyboardMarkup(all_start, resize_keyboard=True)
             )
-
+        try:
+            insert(table="users", user_id=user_id, data={"user_id":user_id, "first_name": first, "last_name": last})
+        except:
+            pass
 
 def text(update: Update, context: CallbackContext):
     user_id = update.effective_user.id
