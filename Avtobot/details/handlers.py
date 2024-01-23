@@ -389,7 +389,7 @@ def update(update: Update, context: CallbackContext):
         update.message.reply_text(
             text="Avtomobillar parseri ishga tushdi, kuting!..."
         )
-        # yengil_parser()
+        yengil_parser()
         formatted_date = current_time.strftime("%Y-%m-%d %H:%M:%S")
         upd(table="avto")
         users=get(table="users")
@@ -408,7 +408,7 @@ def update(update: Update, context: CallbackContext):
         update.message.reply_text(
             text="Mototsikllar parseri ishga tushdi, kuting!..."
         )
-        # moto_parser()
+        moto_parser()
         upd(table="moto")
         users = get(table="users")
         for us in users:
